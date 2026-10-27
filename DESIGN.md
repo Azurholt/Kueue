@@ -49,14 +49,12 @@ Motifs should be used as **SVG masks or low-opacity watermarks** within containe
 
 ### Input Fields
 *   **Style:** Minimalist. Only a bottom border using `outline_variant` at 40% opacity. Upon focus, the border transitions to `primary` (#00502e) and increases to 2px.
-*   **Patterns:** Incorporate a subtle Adinkra symbol (like *Nyame Nti*) at 5% opacity in the top-right corner of large form containers to ground the digital experience in Ghanaian heritage.
 
 ## 6. Do’s and Don’ts
 
 ### Do
 *   **Do** use asymmetrical layouts. Place a hero image slightly off-center to create visual tension and interest.
 *   **Do** use the `24` (8.5rem) spacing token for major section transitions to let the "White" primary color breathe.
-*   **Do** use "Adinkra Accents." A single, high-quality vector motif used as a decorative corner element is better than a repeating pattern.
 
 ### Don't
 *   **Don't** use black (#000000) for text. Use `on_surface` (#1c1b1b) to maintain a premium, softer contrast.
